@@ -15,9 +15,7 @@ Lessons, practice, timed exams and progress tracking in one place.
 ## Preview
 
 <div align="center">
-<img src="./login-desktop.png" alt="MASRIA sign-in page on desktop" width="760">
-<br><br>
-<img src="./login-mobile.png" alt="MASRIA sign-in page on mobile" width="260">
+<img src="./banner.svg" alt="MASRIA banner" width="900">
 </div>
 
 ## What it is
