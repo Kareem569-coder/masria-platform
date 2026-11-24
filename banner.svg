@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050a14"/><stop offset="1" stop-color="#0c1230"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00c6e6"/><stop offset="1" stop-color="#6366ff"/></linearGradient>
+<radialGradient id="glow" cx="0.2" cy="0.1" r="0.7"><stop offset="0" stop-color="#00c6e6" stop-opacity="0.22"/><stop offset="1" stop-color="#00c6e6" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="420" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="420" rx="24" fill="url(#glow)"/>
+<rect x="0.5" y="0.5" width="1199" height="419" rx="24" fill="none" stroke="#1d2a4a"/>
+<g transform="translate(600 120)">
+<polygon points="0,-52 45,-26 45,26 0,52 -45,26 -45,-26" fill="#08101f" stroke="url(#ac)" stroke-width="4"/>
+<path d="M-20 -20 L-20 20 M-20 -20 L0 0 L-20 20 M4 -20 L24 0 L4 20 M24 -20 L4 0 L24 20" stroke="url(#ac)" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" transform="scale(0.8)"/>
+</g>
+<text x="600" y="232" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="68" font-weight="700" fill="url(#ac)" letter-spacing="6">MASRIA</text>
+<text x="600" y="274" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#c7d2ee">Learn programming. Lessons, practice and exams in one place.</text>
+<g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#9fe9f7" text-anchor="middle">
+<rect x="250" y="316" width="210" height="44" rx="22" fill="#0b1830" stroke="#1f6f86"/><text x="355" y="344">Lessons and packages</text>
+<rect x="485" y="316" width="230" height="44" rx="22" fill="#0b1830" stroke="#1f6f86"/><text x="600" y="344">Timed exams, auto-graded</text>
+<rect x="740" y="316" width="210" height="44" rx="22" fill="#0b1830" stroke="#1f6f86"/><text x="845" y="344">Progress and results</text>
+</g>
+</svg>
